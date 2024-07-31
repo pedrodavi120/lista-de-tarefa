@@ -1,0 +1,6 @@
+.text {
+    border-radius: 10px;
+    background-color: grey;
+    position: relative;
+    box-shadow: 10px;
+}
